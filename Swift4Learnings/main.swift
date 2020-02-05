@@ -51,4 +51,3 @@ print(aEquilibrium.isEqual(left: "Old Apple Campus", right: "Old Apple Campus"))
 print(aEquilibrium.isEqual(left: "New Apple Campus", right: "19111 Pruneridge Ave, Cupertino, CA 95014"))
 
 print("DevOps Learnings")
-print("DevOps Learnings")
